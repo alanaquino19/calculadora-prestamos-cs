@@ -57,16 +57,13 @@ Introduce la tasa anual (%): (ej. 7.5).
 
 Introduce el número de meses: (ej. 60).
 
-
 La salida mostrará capital, tasa, meses y cuota mensual formateados.
-
 
 ---
 
 ## Autor
 
-**Alan Aquino**, estudiante de Ingeniería en Informática.
-
+Alan Aquino.
 
 ---
 
