@@ -25,7 +25,7 @@ Calculadora de préstamos en C# (aplicación de consola) que calcula la cuota me
 Este proyecto usa .NET 9. Para compilar y ejecutar localmente:
 
 1. Asegúrate de tener instalado el SDK de .NET 9.
-2. Desde la carpeta del proyecto, compila:
+2. Desde la carpeta del proyecto compila:
 
    ```bash
    dotnet build
@@ -37,7 +37,7 @@ Este proyecto usa .NET 9. Para compilar y ejecutar localmente:
    dotnet run --project CalculadoraPrestamos.csproj
    ```
 
-O, si prefieres crear el ejecutable:
+O si prefieres crear el ejecutable:
 
    ```bash
    dotnet publish -c Release -r win-x64 --self-contained false -o ./publish
