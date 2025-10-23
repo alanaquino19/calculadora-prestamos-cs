@@ -51,11 +51,11 @@ y luego ejecuta el binario resultante `./publish/CalculadoraPrestamos o .\publis
 
 Al ejecutar la aplicación se solicita:
 
-Introduce el capital:  → (ej. 15000).
+Introduce el capital: (ej. 15000).
 
-Introduce la tasa anual (%):  → (ej. 7.5).
+Introduce la tasa anual (%): (ej. 7.5).
 
-Introduce el número de meses:  → (ej. 60).
+Introduce el número de meses: (ej. 60).
 
 
 La salida mostrará capital, tasa, meses y cuota mensual formateados.
